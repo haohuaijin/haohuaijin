@@ -11,4 +11,6 @@ I'm a first-year graduate student studying computer science at [HITsz](https://w
   - 
 -->
 
+<!--
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=haohuaijin)](https://github.com/anuraghazra/github-readme-stats)
+-->
