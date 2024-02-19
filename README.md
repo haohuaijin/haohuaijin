@@ -3,10 +3,11 @@
 - ⚡ I have a keen interest in distributed systems and database systems
 - 🌱 I'm addicted to learning and growing every day
 - 👨‍💻 I'm currently contributing to [arrow-datafusion](https://github.com/apache/arrow-datafusion)
+
 <!--
 - 🍻 Open to remote intern job opportunities 
 - 📫 How to reach me: 
-  - 
+  - email: haohuaijin@gmail.com
 -->
 
 <!--
