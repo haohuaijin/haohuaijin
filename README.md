@@ -2,7 +2,7 @@
 
 - ⚡ I have a keen interest in distributed systems and database systems
 - 🌱 I'm addicted to learning and growing every day
-- 👨‍💻 I'm currently contributing to [arrow-datafusion](https://github.com/apache/arrow-datafusion)
+- 👨‍💻 I'm currently contributing to [arrow-datafusion](https://github.com/apache/arrow-datafusion) and [openobserve](https://github.com/openobserve/openobserve)
 
 <!--
 - 🍻 Open to remote intern job opportunities 
